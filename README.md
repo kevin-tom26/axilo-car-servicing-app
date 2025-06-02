@@ -85,7 +85,7 @@ Each screen or module has its own folder inside `features/` for clean separation
 
 ### 🎥 Demo Video  
 
-[![Watch the video](https://img.youtube.com/vi/hI95L_h_iTs/0.jpg)](https://www.youtube.com/watch?v=hI95L_h_iTs)
+[![Watch the video](https://img.youtube.com/vi/D4BvjJjGEOI/0.jpg)](https://www.youtube.com/watch?v=D4BvjJjGEOI)
 
 ### 📱 Download APK  
 📦 [Download the APK](https://drive.google.com/file/d/1Rk7px6UWGA8ayrKt_cjdgAUKByMPFjU_/view?usp=drive_link)
