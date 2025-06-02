@@ -1,0 +1,1 @@
+C:\Users\kevin\Documents\Flutter Projects\car_wash\build\app\intermediates\cxx\RelWithDebInfo\6u3h3638\obj\arm64-v8a

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091898933375",
+    "project_id": "axilo-car-service",
+    "storage_bucket": "axilo-car-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091898933375:android:eec367103a99ebfeccbf4a",
+        "android_client_info": {
+          "package_name": "com.axilo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmMSTx67tqMIbSPbhWEFfgLPRzkyX_P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Users/kevin/Documents/Flutter Projects/car_wash/android/app/.cxx/RelWithDebInfo/6u3h3638/x86/CMakeFiles/edit_cache.dir
+C:/Users/kevin/Documents/Flutter Projects/car_wash/android/app/.cxx/RelWithDebInfo/6u3h3638/x86/CMakeFiles/rebuild_cache.dir
