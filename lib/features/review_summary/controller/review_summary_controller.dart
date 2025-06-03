@@ -68,7 +68,8 @@ class ReviewSummaryController extends GetxController {
 
   double get totalAmount {
     final servicesTotal = selectedServices.fold(0.0, (total, service) => total + service.price);
-    return servicesTotal + tax;
+    double totalSum = double.parse((servicesTotal + tax).toStringAsFixed(2));
+    return totalSum;
   }
 
   Future<void> bookService() async {
